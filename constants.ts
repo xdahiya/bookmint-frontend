@@ -1,6 +1,7 @@
 // const SERVER_BASE_URL = "https://nftspacefinal-backend.vercel.app";
+const SERVER_BASE_URL = "https://bookmint-backend.vercel.app";
 // const SERVER_BASE_URL = "https://backend.nftspace.gallery";
-const SERVER_BASE_URL = "http://localhost:3003";
+// const SERVER_BASE_URL = "http://localhost:3003";
 
 // const NFTMARKETPLACE_CONTRACT_ADDRESS2 =
 //   "0x4d42f88aD839D6345130e5Ac9Ae19f3FD50137a7";
