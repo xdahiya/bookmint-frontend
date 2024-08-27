@@ -361,7 +361,7 @@ export default function Nft() {
                   <Image
                     width="100"
                     height="100"
-                    src={data?.image.thumbnailUrl || "/nologo.png"}
+                    src={data?.image.cachedUrl || "/nologo.png"}
                     alt={"product.images[1].alt"}
                     className="h-[50vh] w-full object-contain object-center"
                   />

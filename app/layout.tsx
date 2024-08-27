@@ -31,9 +31,9 @@ const lato = Lato({
 });
 
 export const metadata: Metadata = {
-  title: "NFTSpace - Leading NFT Marketplace for Buy & Sell NFT's",
+  title: "BookMint - Blokchain Based Nft Book Marketplace",
   description:
-    "We're the #1 Polygon NFT marketplace for building communities & monetizing content. Explore, buy & sell NFTs on NFT Space today!",
+    "Take our starter subscription or monthly subscription and enjoy unlimited readout on a wide variety of books available with the cutting edge technology of blockchain.",
 };
 
 import { GoogleTagManager } from "@next/third-parties/google";

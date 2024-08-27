@@ -12,6 +12,10 @@ const nextConfig = {
       },
       {
         protocol: "https",
+        hostname: "nft-cdn.alchemy.com",
+      },
+      {
+        protocol: "https",
         hostname: "aceternity.com",
       },
       {

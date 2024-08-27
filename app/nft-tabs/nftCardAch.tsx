@@ -38,7 +38,7 @@ export function NftCardAch({
         <Image
           className="w-[28px] h-[28px]"
           alt="polygon"
-          src={"/icons8-polygon-64.png"}
+          src={"/arbitrum-arb-logo.png"}
           width={64}
           height={64}
         />
@@ -49,7 +49,7 @@ export function NftCardAch({
             alt={"nft-image"}
             width={250}
             height={330}
-            src={nft.image.thumbnailUrl || "/loading.gif"}
+            src={nft.image.cachedUrl || "/loading.gif"}
             className={cn(
               "h-auto w-auto object-contain transition-all hover:scale-105",
               aspectRatio === "portrait" ? "aspect-[3/4]" : "aspect-square"

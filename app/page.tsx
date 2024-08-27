@@ -71,14 +71,14 @@ export default async function Home() {
 
         <div className="mt-10 mx-auto flex max-w-[58rem] flex-col items-center space-y-4 text-center">
           <h2 className="font-heading leading-[1.1] text-xl md:text-3xl">
-            Our NFT Categories
+            Our Books Categories
           </h2>
-          <p className="max-w-[85%] leading-normal text-muted-foreground sm:text-lg sm:leading-7 pb-10">
+          {/* <p className="max-w-[85%] leading-normal text-muted-foreground sm:text-lg sm:leading-7 pb-10">
             Our marketplace provides an advanced NFT trading platform for art
             enthusiasts, gamers, musicians, avatar creators, photographers and
             sports fans to tokenize, trade, and monetize their digital assets in
             a user-friendly environment.
-          </p>
+          </p> */}
         </div>
         <Categories />
 

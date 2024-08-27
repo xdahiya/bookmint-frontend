@@ -548,12 +548,12 @@ function CollectionInfo({ collectionData }: any) {
         <div className="mt-2 flex items-center text-sm gap-x-2">
           <Image
             className="w-[28px] h-[28px]"
-            alt="polygon"
-            src={"/polygon.png"}
+            alt="arbitrum"
+            src={"/arbitrum-arb-logo.png"}
             width={64}
             height={64}
           />
-          <p className="text-xs">{`Polygon`}</p>
+          <p className="text-xs">{`Arbitrum`}</p>
         </div>
 
         {/* <div className="mt-2 flex items-center text-sm gap-x-2">

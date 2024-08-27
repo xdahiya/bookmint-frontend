@@ -7,10 +7,10 @@ export const docsConfig: DocsConfig = {
       href: "/marketplace",
     },
 
-    {
-      title: "About-Us",
-      href: "/about-us",
-    },
+    // {
+    //   title: "About-Us",
+    //   href: "/about-us",
+    // },
 
     // {
     //   title: "Whitepaper",
