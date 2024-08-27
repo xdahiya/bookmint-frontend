@@ -78,7 +78,7 @@ export const DarkGradientPricing = () => {
         <div className="grid grid-cols-1 gap-6 md:grid-cols-3">
           <PriceCard
             tier="Basic"
-            price="100 gwi arb"
+            price="100 wei arb"
             bestFor="Best for basic readers"
             CTA={
               <GhostButton
@@ -99,7 +99,7 @@ export const DarkGradientPricing = () => {
           />
           <PriceCard
             tier="Pro"
-            price="1000 gwi arb"
+            price="1000 wei arb"
             bestFor="Best for daily readers"
             CTA={
               <GhostButton
@@ -120,7 +120,7 @@ export const DarkGradientPricing = () => {
           />
           <PriceCard
             tier="Enterprise"
-            price="10000 gwi arb"
+            price="10000 wei arb"
             bestFor="Best for enterprices readers"
             CTA={
               <GhostButton
