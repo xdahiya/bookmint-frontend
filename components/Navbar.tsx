@@ -260,9 +260,9 @@ export function Navbar() {
                 </DropdownMenuContent>
               </DropdownMenu>
             </div>
-            {/* <div className="items-center justify-center h-full">
+            <div className="items-center justify-center h-full">
               <ModeToggle />
-            </div> */}
+            </div>
 
             {address == "0xb95EE029c08225EE5527bab5FAbde756d335FCbf" && (
               <BackgroundGradient className="rounded-[22px]  bg-white dark:bg-zinc-900 text-black">
